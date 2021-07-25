@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-🐱‍🏍 I am Shivansh Pandey, and I'am pursuing my bachelor's degree in Computer Science.
+🐱‍🏍 I am Shivansh Pandey, and I'm pursuing my bachelor's degree in Computer Science.
 
 👨‍💻 I'm Interested in Competitive Programming, Data Structures and Algorithms and Web Development.
 
