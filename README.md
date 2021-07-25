@@ -7,6 +7,8 @@
 🙋‍♂️ I'm open to collaborate on web development projects.
 
 ⚡ Fun fact: I'm curious and willing to learn about any new technology that seems intriguing.
+
+You can reach out to me via [LinkedIn](https://www.linkedin.com/in/shivansh1012/).
 <!--
 **shivansh1012/shivansh1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
