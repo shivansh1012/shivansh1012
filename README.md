@@ -2,7 +2,7 @@
 
 🐱‍🏍 I am Shivansh Pandey, and I'm pursuing my bachelor's degree in Computer Science.
 
-👨‍💻 I'm Interested in Competitive Programming, Data Structures and Algorithms. and Web Development.
+👨‍💻 I'm Interested in Competitive Programming, Data Structures and Algorithms. and Web Application Development.
 
 👓 Some technologies I enjoy working with include ReactJS, ExpressJS and RESTful apis.
 
