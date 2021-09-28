@@ -2,11 +2,11 @@
 
 🐱‍🏍 I am Shivansh Pandey, and I'm pursuing my bachelor's degree in Computer Science.
 
-👨‍💻 I'm Interested in Competitive Programming, Data Structures and Algorithms. and Web Application Development.
+👨‍💻 I'm focused on learning full stack development and broadening my knowledge about Machine Learning.
 
-👓 Some technologies I enjoy working with include ReactJS, ExpressJS and RESTful apis.
+👓 At the moment I am learning ReactJS, ExpressJS and working with RESTful apis.
 
-🙋‍♂️ I'm open to collaborate on web development projects.
+🙋‍♂️ I'm open to collaborate on web app projects.
 
 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/shivansh1012/).
 <!--
