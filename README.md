@@ -4,7 +4,7 @@
 
 👨‍💻 I am focused on learning full stack development and broadening my knowledge about Machine Learning.
 
-👓 At the moment, I am learning ReactJS, ExpressJS and working with RESTful apis.
+👓 At the moment, I am learning ReactJS, with Spring Boot and understanding Back-Web-INteractions.
 
 🙋‍♂️ I'm open to collaborate on web app projects.
 
