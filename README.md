@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shivansh
 
-Are your hands dirty? :)
+Are your hands dirty? :)  
 Enjoy a cup of coffee and music now, Let's go further. are you ready?
 
 🐱‍ I am pursuing my bachelor's degree in Computer Science and Technology.
