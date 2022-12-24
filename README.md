@@ -8,6 +8,6 @@ Enjoy a *cup of coffee* and *music* now, Let's go further.
 👓 At the *moment*, I am learning **Spring Boot** with **ReactJS**(frontend) and understanding Back-Web-Interactions.  
 ❤️ oh yes, my *favourite* language is **Java**.
 
-🙋‍♂️ I'm **open to collaborate** on Web app projects or anything intresting.  
+🙋‍♂️ I'm **open to collaborate** on Web app projects or anything interesting.  
 
 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/shivansh1012/).
